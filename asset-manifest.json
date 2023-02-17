@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NestedRouting/static/css/main.b038aca4.css",
+    "main.js": "/NestedRouting/static/js/main.a62eba99.js",
+    "static/js/787.0565363a.chunk.js": "/NestedRouting/static/js/787.0565363a.chunk.js",
+    "index.html": "/NestedRouting/index.html",
+    "main.b038aca4.css.map": "/NestedRouting/static/css/main.b038aca4.css.map",
+    "main.a62eba99.js.map": "/NestedRouting/static/js/main.a62eba99.js.map",
+    "787.0565363a.chunk.js.map": "/NestedRouting/static/js/787.0565363a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b038aca4.css",
+    "static/js/main.a62eba99.js"
+  ]
+}
